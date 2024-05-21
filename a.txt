@@ -1,6 +1,1 @@
-aaaaaaaaaaaaaa
-<<<<<<< HEAD
-aaaaaa
-=======
-aaaaaa
->>>>>>> pochi
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
